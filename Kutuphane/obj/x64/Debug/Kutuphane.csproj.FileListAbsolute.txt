@@ -1,0 +1,16 @@
+C:\Users\odsel\source\repos\Kutuphane\Kutuphane\bin\x64\Debug\Kutuphane.exe.config
+C:\Users\odsel\source\repos\Kutuphane\Kutuphane\bin\x64\Debug\Kutuphane.exe
+C:\Users\odsel\source\repos\Kutuphane\Kutuphane\bin\x64\Debug\Kutuphane.pdb
+C:\Users\odsel\source\repos\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\odsel\source\repos\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.csproj.SuggestedBindingRedirects.cache
+C:\Users\odsel\source\repos\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.Giris.resources
+C:\Users\odsel\source\repos\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.anasayfa.resources
+C:\Users\odsel\source\repos\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\odsel\source\repos\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.UyeEkle.resources
+C:\Users\odsel\source\repos\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.UyeIslemleri.resources
+C:\Users\odsel\source\repos\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.UyeListele.resources
+C:\Users\odsel\source\repos\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.UyeSilme.resources
+C:\Users\odsel\source\repos\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\odsel\source\repos\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\odsel\source\repos\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.exe
+C:\Users\odsel\source\repos\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.pdb
